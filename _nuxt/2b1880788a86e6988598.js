@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{622:function(e,t,n){"use strict";n.r(t);var r={},c=n(33),component=Object(c.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("edite.user")])}),[],!1,null,"208f1552",null);t.default=component.exports}}]);
